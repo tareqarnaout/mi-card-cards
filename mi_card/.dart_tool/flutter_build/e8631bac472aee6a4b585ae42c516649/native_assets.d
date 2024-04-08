@@ -1,0 +1,1 @@
+ C:\\Users\\tarna\\OneDrive\\Documents\\FlutterProjects\\mi_card\\mi_card\\.dart_tool\\flutter_build\\e8631bac472aee6a4b585ae42c516649\\native_assets.yaml: 
